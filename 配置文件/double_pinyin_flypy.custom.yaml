@@ -42,8 +42,8 @@ patch:
   reverse_lookup: {}
 
   #載入朙月拼音擴充詞庫
-  "translator/dictionary": luna_pinyin.extended
-  "translator/preedit_format": {}
+  # "translator/dictionary": luna_pinyin.extended
+  # "translator/preedit_format": {}
 
   # 自定义符号上屏
   punctuator:
